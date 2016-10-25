@@ -9,14 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "2.0.0",
-    "babel-eslint": "6.1.2",
-    "bluebird": "3.4.1",
+    "async": "2.1.2",
+    "babel-eslint": "7.0.0",
+    "bluebird": "3.4.6",
     "cradle": "0.7.1",
-    "eslint": "3.1.1",
-    "eslint-config-airbnb": "9.0.1",
-    "eslint-plugin-import": "1.11.1",
-    "eslint-plugin-jsx-a11y": "2.0.1",
-    "eslint-plugin-react": "5.2.2"
+    "eslint": "3.8.1",
+    "eslint-config-airbnb": "12.0.0",
+    "eslint-plugin-import": "2.0.1",
+    "eslint-plugin-jsx-a11y": "2.2.3",
+    "eslint-plugin-react": "6.4.1"
   }
 }
